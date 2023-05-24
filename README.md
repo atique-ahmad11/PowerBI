@@ -1,2 +1,2 @@
 # PowerBI
-A personal project with some data of sales with different Power BI commands
+This repository contains a simple sales data file that provides valuable insights into the sales performance of a company.
